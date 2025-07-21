@@ -1,4 +1,4 @@
-A revised version of the document is presented below, with each sentence rephrased to convey the original message.
+
 
 [cite\_start]**Technical Method: Integrating Individuals into Scenes with Realism** [cite: 1]
 
